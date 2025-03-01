@@ -6,8 +6,7 @@
 
 A sophisticated blog management dashboard featuring advanced filtering, real-time search, and intelligent pagination. Built with modern React ecosystem tools.
 
-![Dashboard Interface](https://via.placeholder.com/800x400.png?text=Blog+Dashboard+Preview)
-*Replace with actual screenshots*
+
 
 ## ✨ Features
 
